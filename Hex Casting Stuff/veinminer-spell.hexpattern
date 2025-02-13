@@ -53,7 +53,6 @@
             // get new block
             {
                 {
-                    [
                         @vec(1,1,1),
                         @vec(1,1,0),
                         @vec(1,1,-1),
@@ -80,7 +79,6 @@
                         @vec(-1,0,1),
                         @vec(-1,0,0),
                         @vec(-1,0,-1)
-                    ]
                 } // offset placeholder (automatic)
             }
             Flock's Disintegration
