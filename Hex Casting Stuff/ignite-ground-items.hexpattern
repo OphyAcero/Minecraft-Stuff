@@ -1,4 +1,4 @@
-{
+
 Mind's Reflection
 Compass' Purification
 Mind's Reflection
@@ -6,12 +6,18 @@ Alidade's Purification
 Archer's Distillation
 @num(15)
 Zone Distillation: Item
-}
+
 {
     Compass' Purification II
     Gemini Decomposition
     Floor Purification
     Break Block
+}
+
+Jester's Gambit
+Thoth's Gambit
+
+{
     Vector Reflection +Y
     Subtractive Distillation
     Floor Purification
