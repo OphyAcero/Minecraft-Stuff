@@ -8,7 +8,7 @@ Huginn's Gambit
     Vacant Reflection
     {
         Flock's Reflection
-        Numerical Reflection: 1
+        @num(1)
         Subtractive Distillation
         Fisherman's Gambit II
         Gemini Decomposition
@@ -17,18 +17,20 @@ Huginn's Gambit
         Compass' Purification II
         Jester's Gambit
         Subtractive Distillation
-        Numerical Reflection: 15
+        @num(15)
         Division Distillation
         Impulse
         Hermes' Gambit
     }
-    Numerical Reflection: 50
+    @num(50)
     Gemini Gambit
     Hermes' Gambit
 }
-Scribe's Reflection
+{
+    "entityType": minecraft:arrow
+}
 Mind's Reflection
 Compass' Purification II
-Numerical Reflection: 25
+@num(25)
 Zone Exaltation: Type
 Thoth's Gambit
