@@ -22,7 +22,7 @@
         Uniqueness Purification
 
         Undertaker's Gambit
-        Combination Distillation
+        Additive Distillation
         Prospector's Gambit
         Exclusionary Distillation
         Uniqueness Purification
@@ -144,7 +144,7 @@
                         @vec(-1,0,-1)
                     ] // manually insert list of offsets here
     Thoth's Gambit
-    Combination Distillation
+    Additive Distillation
     // recommended: split across screens here
     
     // recursive function, part 2
@@ -171,7 +171,7 @@
         Augur's Exaltation
         Hermes' Gambit
     }
-    Combination Distillation
+    Additive Distillation
 
     // save on stack space and iota usage by putting function in ravenmind
     Huginn's Gambit
