@@ -26,9 +26,11 @@ Huginn's Gambit
     Gemini Gambit
     Hermes' Gambit
 }
+{
 @entity_type(minecraft:arrow)
 Mind's Reflection
 Compass' Purification II
 @num(25)
 Zone Exaltation: Type
+}
 Thoth's Gambit
