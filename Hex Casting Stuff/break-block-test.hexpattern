@@ -1,4 +1,4 @@
-#wget(main/Hex%20Casting%20Stuff/raycast-block)(https://raw.githubusercontent.com/OphyAcero/Minecraft-Stuff/refs/heads/main/Hex%20Casting%20Stuff/raycast-block.hexpattern)
+#wget(raycast-block.hexpattern)(https://raw.githubusercontent.com/OphyAcero/Minecraft-Stuff/refs/heads/main/Hex%20Casting%20Stuff/raycast-block.hexpattern)
 
 {
     $player_targetblock
