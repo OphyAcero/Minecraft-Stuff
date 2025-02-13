@@ -54,7 +54,32 @@
             {
                 {
                     [
-                        @vec(1,2,3)
+                        @vec(1,1,1),
+                        @vec(1,1,0),
+                        @vec(1,1,-1),
+                        @vec(-1,1,1),
+                        @vec(-1,1,0),
+                        @vec(-1,1,-1),
+                        @vec(0,1,1),
+                        @vec(0,1,0),
+                        @vec(0,1,-1),
+                        @vec(1,-1,1),
+                        @vec(1,-1,0),
+                        @vec(1,-1,-1),
+                        @vec(-1,-1,1),
+                        @vec(-1,-1,0),
+                        @vec(-1,-1,-1),
+                        @vec(0,-1,1),
+                        @vec(0,-1,0),
+                        @vec(0,-1,-1),
+                        @vec(1,0,1),
+                        @vec(1,0,0),
+                        @vec(1,0,-1),
+                        @vec(0,0,1),
+                        @vec(0,0,-1),
+                        @vec(-1,0,1),
+                        @vec(-1,0,0),
+                        @vec(-1,0,-1)
                     ]
                 } // offset placeholder (automatic)
             }
@@ -92,7 +117,34 @@
         Flock's Disintegration
     }
     Consideration: Consideration
-    Bookkeeper's Gambit: -- // manually insert list of offsets here
+    [
+                        @vec(1,1,1),
+                        @vec(1,1,0),
+                        @vec(1,1,-1),
+                        @vec(-1,1,1),
+                        @vec(-1,1,0),
+                        @vec(-1,1,-1),
+                        @vec(0,1,1),
+                        @vec(0,1,0),
+                        @vec(0,1,-1),
+                        @vec(1,-1,1),
+                        @vec(1,-1,0),
+                        @vec(1,-1,-1),
+                        @vec(-1,-1,1),
+                        @vec(-1,-1,0),
+                        @vec(-1,-1,-1),
+                        @vec(0,-1,1),
+                        @vec(0,-1,0),
+                        @vec(0,-1,-1),
+                        @vec(1,0,1),
+                        @vec(1,0,0),
+                        @vec(1,0,-1),
+                        @vec(0,0,1),
+                        @vec(0,0,-1),
+                        @vec(-1,0,1),
+                        @vec(-1,0,0),
+                        @vec(-1,0,-1)
+                    ] // manually insert list of offsets here
     Thoth's Gambit
     Combination Distillation
     // recommended: split across screens here
