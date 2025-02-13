@@ -53,10 +53,10 @@
             // get new block
             {
                 {
-                    
+
                 } // offset placeholder (automatic)
             }
-            Flock's Disintegration
+            >>
             Prospector's Gambit
             Additive Distillation
             
@@ -71,7 +71,7 @@
                 Integration Distillation
                 Bookkeeper's Gambit: v
             }
-            Flock's Disintegration
+            >>
             Augur's Exaltation
             
             @num(5)
@@ -87,7 +87,7 @@
         @num(1) // index of placeholder
         Rotation Gambit
         Surgeon's Exaltation
-        Flock's Disintegration
+        >>
     }
     Consideration: Consideration
     [
@@ -117,7 +117,7 @@
         {
             Bookkeeper's Gambit: v
         }
-        Flock's Disintegration
+        >>
         Augur's Exaltation
         Hermes' Gambit
     }
