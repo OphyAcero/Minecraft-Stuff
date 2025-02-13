@@ -52,7 +52,9 @@
         {
             // get new block
             {
-                {} // offset placeholder (automatic)
+                {
+                    
+                } // offset placeholder (automatic)
             }
             Flock's Disintegration
             Prospector's Gambit
