@@ -53,32 +53,7 @@
             // get new block
             {
                 {
-                        @vec(1,1,1),
-                        @vec(1,1,0),
-                        @vec(1,1,-1),
-                        @vec(-1,1,1),
-                        @vec(-1,1,0),
-                        @vec(-1,1,-1),
-                        @vec(0,1,1),
-                        @vec(0,1,0),
-                        @vec(0,1,-1),
-                        @vec(1,-1,1),
-                        @vec(1,-1,0),
-                        @vec(1,-1,-1),
-                        @vec(-1,-1,1),
-                        @vec(-1,-1,0),
-                        @vec(-1,-1,-1),
-                        @vec(0,-1,1),
-                        @vec(0,-1,0),
-                        @vec(0,-1,-1),
-                        @vec(1,0,1),
-                        @vec(1,0,0),
-                        @vec(1,0,-1),
-                        @vec(0,0,1),
-                        @vec(0,0,-1),
-                        @vec(-1,0,1),
-                        @vec(-1,0,0),
-                        @vec(-1,0,-1)
+                    
                 } // offset placeholder (automatic)
             }
             Flock's Disintegration
@@ -116,33 +91,8 @@
     }
     Consideration: Consideration
     [
-                        @vec(1,1,1),
-                        @vec(1,1,0),
-                        @vec(1,1,-1),
-                        @vec(-1,1,1),
-                        @vec(-1,1,0),
-                        @vec(-1,1,-1),
-                        @vec(0,1,1),
-                        @vec(0,1,0),
-                        @vec(0,1,-1),
-                        @vec(1,-1,1),
-                        @vec(1,-1,0),
-                        @vec(1,-1,-1),
-                        @vec(-1,-1,1),
-                        @vec(-1,-1,0),
-                        @vec(-1,-1,-1),
-                        @vec(0,-1,1),
-                        @vec(0,-1,0),
-                        @vec(0,-1,-1),
-                        @vec(1,0,1),
-                        @vec(1,0,0),
-                        @vec(1,0,-1),
-                        @vec(0,0,1),
-                        @vec(0,0,-1),
-                        @vec(-1,0,1),
-                        @vec(-1,0,0),
-                        @vec(-1,0,-1)
-                    ] // manually insert list of offsets here
+
+    ] // manually insert list of offsets here
     Thoth's Gambit
     Additive Distillation
     // recommended: split across screens here
