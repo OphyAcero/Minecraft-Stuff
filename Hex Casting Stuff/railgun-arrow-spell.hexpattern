@@ -8,7 +8,7 @@ Huginn's Gambit
     Vacant Reflection
     {
         Flock's Reflection
-        @num(1)
+        @pattern(NORTHEAST,qaq)
         Subtractive Distillation
         Fisherman's Gambit II
         Gemini Decomposition
@@ -26,7 +26,7 @@ Huginn's Gambit
     Gemini Gambit
     Hermes' Gambit
 }
-Scribe's Reflection
+@entity_type(minecraft:arrow)
 Mind's Reflection
 Compass' Purification II
 @num(25)

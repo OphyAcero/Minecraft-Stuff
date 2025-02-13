@@ -34,7 +34,7 @@
         Integration Distillation
         
         // inner BFS loop
-        Numerical Reflection: 20
+        @num:(20)
         Swindler's Gambit
     }
     // recommended: split across screens here
@@ -45,7 +45,7 @@
         Flock's Reflection
         Flock's Gambit
         Retrograde Purification
-        Numerical Reflection: 0
+        @num:(0)
         Selection Distillation
 
         // inner loop to be unrolled
@@ -88,7 +88,7 @@
             // add to queue if new block is the right type
             Gemini Decomposition
             Surveyor's Purification
-            Numerical Reflection: 3
+            @num:(3)
             Fisherman's Gambit II
             Equality Distillation
 
@@ -99,7 +99,7 @@
             Flock's Disintegration
             Augur's Exaltation
             
-            Numerical Reflection: 5
+            @num:(5)
             Fisherman's Gambit
             Rotation Gambit II
             Hermes' Gambit
@@ -109,7 +109,7 @@
         }
 
         // insert current offset
-        Numerical Reflection: 1 // index of placeholder
+        @num:(1) // index of placeholder
         Rotation Gambit
         Surgeon's Exaltation
         Flock's Disintegration
@@ -158,7 +158,7 @@
         Augur's Purification
 
         Thanatos' Reflection
-        Numerical Reflection: 357 // max recursion - block limit - number of offsets - 1 (512 - 64 - 26 - 1)
+        @num:(357) // max recursion - block limit - number of offsets - 1 (512 - 64 - 26 - 1)
         Subtractive Distillation
         Augur's Purification
 
