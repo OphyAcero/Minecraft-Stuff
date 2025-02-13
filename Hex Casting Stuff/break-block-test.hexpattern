@@ -1,5 +1,8 @@
-@wget https://raw.githubusercontent.com/OphyAcero/Minecraft-Stuff/refs/heads/main/Hex%20Casting%20Stuff/raycast-block
+#wget(main/Hex%20Casting%20Stuff/raycast-block)(https://raw.githubusercontent.com/OphyAcero/Minecraft-Stuff/refs/heads/main/Hex%20Casting%20Stuff/raycast-block)
 
+{
+    $player_targetblock
+}
 {
     Break Block
 }
