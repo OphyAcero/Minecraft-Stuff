@@ -1,3 +1,22 @@
-#wget(raycast-block.hexpattern)(https://raw.githubusercontent.com/OphyAcero/Minecraft-Stuff/refs/heads/main/Hex%20Casting%20Stuff/raycast-block.hexpattern)
-
-$raycast-block
+Mind's Reflection
+Compass' Purification
+Mind's Reflection
+Alidade's Purification
+Archer's Distillation
+{@num(10)} >>
+Zone Distillation: Monster
+{@num(10)} >>
+Gemini Gambit
+{Additive Distillation} >>
+{@num(9)} >>
+Gemini Gambit
+{@num(9)} >>
+Flock's Gambit
+Hermes' Gambit
+Hermes' Gambit
+{
+    {@num{0.125}} >>
+    Explosion
+}
+Jester's Gambit
+Thoth's Gambit
