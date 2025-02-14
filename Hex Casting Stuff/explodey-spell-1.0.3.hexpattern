@@ -5,6 +5,11 @@ Alidade's Purification
 Archer's Distillation
 {@num(10)} >>
 Zone Distillation: Monster
+{
+    Compass' Purification II
+}
+Jester's Gambit
+Thoth's Gambit
 {@num(10)} >>
 Gemini Gambit
 {Additive Distillation} >>
@@ -15,7 +20,6 @@ Flock's Gambit
 Hermes' Gambit
 Hermes' Gambit
 {
-    Compass' Purification II
     {@num(0.125)} >>
     Explosion
 }
