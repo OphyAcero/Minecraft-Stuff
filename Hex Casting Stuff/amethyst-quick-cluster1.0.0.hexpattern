@@ -1,0 +1,67 @@
+{
+@vec(4,-1,4)
+@vec(4,-1,-4)
+@vec(4,-1,0)
+@vec(-4,-1,4)
+@vec(-4,-1,-4)
+@vec(-4,-1,0)
+@vec(0,-1,4)
+@vec(0,-1,-4)
+@vec(0,-1,0)
+@vec(1,0,0)
+@vec(1,0,-4)
+@vec(1,0,4)
+@vec(3,0,0)
+@vec(3,0,-4)
+@vec(3,0,4)
+@vec(4,0,1)
+@vec(4,0,3)
+@vec(4,0,5)
+@vec(4,0,-1)
+@vec(4,0,-3)
+@vec(4,0,-5)
+@vec(5,0,0)
+@vec(5,0,-4)
+@vec(5,0,4)
+@vec(-1,0,0)
+@vec(-1,0,-4)
+@vec(-1,0,4)
+@vec(-3,0,0)
+@vec(-3,0,-4)
+@vec(-3,0,4)
+@vec(-4,0,1)
+@vec(-4,0,3)
+@vec(-4,0,5)
+@vec(-4,0,-1)
+@vec(-4,0,-3)
+@vec(-4,0,-5)
+@vec(-5,0,0)
+@vec(-5,0,-4)
+@vec(-5,0,4)
+@vec(0,0,1)
+@vec(0,0,3)
+@vec(0,0,5)
+@vec(0,0,-1)
+@vec(0,0,-3)
+@vec(0,0,-5)
+}
+
+Mind's Reflection
+Compass' Purification
+Mind's Reflection
+Alidade's Purification
+Archer's Distillation
+
+{
+    Additive Distillation
+}
+
+Jester's Gambit
+Thoth's Gambit
+
+{
+    Falling Block
+}
+
+Jester's Gambit
+Thoth's Gambit
