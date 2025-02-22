@@ -1,0 +1,23 @@
+// Finding Wandering Wisps in a 10 block radius.
+{@entity_type(hexal:wisp/wandering)} >>
+Identity Reflection
+Compass' Purification II
+{@num(10)} >>
+Zone Exaltation: Type
+Augur's Purification
+{
+    {@entity_type(hexal:wisp/wandering)} >>
+    Identity Reflection
+    Compass' Purification II
+    {@num(10)} >>
+    Zone Exaltation: Type
+    {@pattern(NORTHEAST,wdwewdwqeaweeaddwweaaeqqdaedwewwwewewewwwewwwawqwaw)} >>
+    Hermes' Gambit
+    Charon's Gambit
+}
+{
+    {@num(200)} >>
+    Delay Wisp
+}
+Reservoir Reflection
+Reveal
