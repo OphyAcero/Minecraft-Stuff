@@ -6,6 +6,7 @@ Compass' Purification II
 Zone Exaltation: Type
 Augur's Purification
 {
+    // Find Wandering Wisps and eat that shit.
     {@entity_type(hexal:wisp/wandering)} >>
     Identity Reflection
     Compass' Purification II
@@ -16,9 +17,13 @@ Augur's Purification
     Charon's Gambit
 }
 {
+    // If no wisp, delay for a bit, and yumyum.
     {@num(200)} >>
     Delay Wisp
     Reservoir Reflection
     Reveal
     Charon's Gambit
 }
+// Lol, please don't forgor again to put if
+Augur's Exaltation
+Hermes' Gambit
