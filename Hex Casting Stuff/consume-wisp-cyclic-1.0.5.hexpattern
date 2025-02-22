@@ -1,4 +1,3 @@
-{
 {@entity_type(hexal:wisp/wandering)} >>
 Identity Reflection
 Compass' Purification II
@@ -10,4 +9,5 @@ Hermes' Gambit
 Reservoir Reflection
 Reveal
 Charon's Gambit
-}
+{@num(100)} >>
+Delay Wisp
