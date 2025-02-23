@@ -1,13 +1,14 @@
 Identity Reflection
 Compass' Purification II
-{@vector(0.0,-1.0,0.0)} >>
+{@vector(0.0,1.0,0.0)} >>
+Subtractive Distillation
 Classifier's Purification
 {@item_type(minecraft:spruce_sapling,true)} >>
 Equality Distillation
 {
 Identity Reflection
 Compass' Purification II
-{@vector(0.0,-1.0,0.0)} >>
+{@vector(0.0,1.0,0.0)} >>
 Subtractive Distillation
 Edify Sapling
 }
