@@ -20,8 +20,6 @@ Augur's Purification
     // If no wisp, delay for a bit, and yumyum.
     {@num(200)} >>
     Delay Wisp
-    Reservoir Reflection
-    Reveal
     Charon's Gambit
 }
 // Lol, please don't forgor again to put if
