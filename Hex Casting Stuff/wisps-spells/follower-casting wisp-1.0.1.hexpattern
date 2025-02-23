@@ -11,7 +11,7 @@ Augur's Purification //is the queue anything other than 0?
 {
     Mind's Reflection
     Compass' Purification
-    Vector Reflection +Y
+    {@vector(0.0,1.0,0.0)} >>
     Additive Distillation
     Pathfinder's Gambit
     Charon's Gambit
