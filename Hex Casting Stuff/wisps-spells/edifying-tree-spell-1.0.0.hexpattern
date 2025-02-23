@@ -1,0 +1,20 @@
+Identity Reflection
+Compass' Purification II
+{@vector(0.0,-1.0,0.0)} >>
+{@item_type(minecraft:spruce_sapling,true)} >>
+Augur's Purification
+{
+Identity Reflection
+Compass' Purification II
+{@vector(0.0,-1.0,0.0)} >>
+Subtractive Distillation
+Edify Sapling
+}
+{
+    Charon's Gambit
+    {@num(20)} >>
+    Delay Wisp
+}
+Augur's Exaltation
+Hermes' Gambit
+Charon's Gambit
