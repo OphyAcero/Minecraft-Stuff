@@ -12,7 +12,7 @@
         @entity_type(creeperoverhaul:desert_creeper)
         @entity_type(creeperoverhaul:badlands_creeper)
         @entity_type(creeperoverhaul:savannah_creeper)
-        @entity_type(creeperoverhaul:muchroom_creeper)
+        @entity_type(creeperoverhaul:mushroom_creeper)
         @entity_type(creeperoverhaul:swamp_creeper)
         @entity_type(creeperoverhaul:dripstone_creeper)
         @entity_type(creeperoverhaul:cave_creeper)

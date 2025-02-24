@@ -1,0 +1,53 @@
+//Wisp that can attack mobs around it with some sort of attack, while following i-frames and follow random tasks
+
+//Cast anything in queue
+Postmaster's Reflection
+Augur's Purification //is the queue anything other than 0?
+{
+    Mind's Reflection
+    Alidade's Purification
+    {@num(7)} >>
+    Multiplicative Distillation
+    Identity Purification
+    Compass' Purification
+    Additive Distillation
+    {@pattern(EAST, aqqqeawaedeweewee)} >>
+    
+    Recitation Reflection //Read out from queue
+    Hermes' Gambit //Execute whatever the caster sent, presumably a patternlist
+    Flock's Reflection //Get height of stack
+    Flock's Gambit //List anything in the stack together
+    Bookkeeper's Gambit(v)//Clear out stack for next iteration
+}
+{
+    //This is when the attack part comes in
+    Identity Purification
+    Compass' Purification
+    {@num(15)} >>
+    Zone Distillation: Monster
+    Augur's Purification
+    {
+        Identity Purification
+        Compass' Purification II
+        {@num(15)} >>
+        Zone Distillation: Monster
+        {
+            {@num(2)}
+            {@num(1)}
+            Black Sun's Nadir
+        }
+        {@num(10)} >>
+        Delay Wisp
+        Charon's Gambit
+    }
+    {
+        Charon's Gambit
+        {@num(20)} >>
+    }
+    Augur's Exaltation
+    Hermes' Gambit
+    Charon's Gambit
+}
+Augur's Exaltation
+Hermes' Gambit
+Charon's Gambit
