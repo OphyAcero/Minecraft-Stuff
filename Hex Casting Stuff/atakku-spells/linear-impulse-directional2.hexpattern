@@ -1,5 +1,3 @@
-#wget(common/player.hexpattern)(https://hex.atakku.dev/common/player.hexpattern)
-
 #def(ten)(
   @num(0.25)
   @num(0.25)
@@ -14,7 +12,8 @@
 )
 
 {
-  $player_look
+  Mind's Reflection
+  Alidade's Purification
   Multiplicative Distillation
   Mind's Reflection
   Jester's Gambit
