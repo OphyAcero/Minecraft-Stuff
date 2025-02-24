@@ -1,18 +1,4 @@
-//Wisp that can attack mobs around it with some sort of attack, while following i-frames and follow random tasks
-
-//Cast anything in queue
-Postmaster's Reflection
-Augur's Purification //is the queue anything other than 0?
 {
-    Recitation Reflection //Read out from queue
-    Hermes' Gambit //Execute whatever the caster sent, presumably a patternlist
-    Flock's Reflection //Get height of stack
-    Flock's Gambit //List anything in the stack together
-    Bookkeeper's Gambit(v)//Clear out stack for next iteration
-}
-{
-    //This is when the attack part comes in
-    {
         @entity(minecraft:zombie)
         @entity(minecraft:phantom)
         @entity(minecraft:stray)
@@ -60,8 +46,3 @@ Augur's Purification //is the queue anything other than 0?
         @entity(endermanoverhaul:warped_forest_enderman)
         @entity(endermanoverhaul:windswept_hills_enderman)
     }
-    
-}
-Augur's Exaltation
-Hermes' Gambit
-Charon's Gambit
