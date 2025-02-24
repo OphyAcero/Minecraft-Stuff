@@ -4,6 +4,15 @@
 Postmaster's Reflection
 Augur's Purification //is the queue anything other than 0?
 {
+    Mind's Reflection
+    Alidade's Purification
+    {@num(7)} >>
+    Multiplicative Distillation
+    Identity Purification
+    Compass' Purification
+    Additive Distillation
+    {@pattern(EAST,aqqqeawaedeweewee)} >>
+    
     Recitation Reflection //Read out from queue
     Hermes' Gambit //Execute whatever the caster sent, presumably a patternlist
     Flock's Reflection //Get height of stack
@@ -12,13 +21,13 @@ Augur's Purification //is the queue anything other than 0?
 }
 {
     //This is when the attack part comes in
-    Identity Purification
+    Identity Reflection
     Compass' Purification
     {@num(15)} >>
     Zone Distillation: Monster
     Augur's Purification
     {
-        Identity Purification
+        Identity Reflection
         Compass' Purification II
         {@num(15)} >>
         Zone Distillation: Monster
