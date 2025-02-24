@@ -1,6 +1,8 @@
 //Wisp that can attack mobs around it with some sort of attack, while following i-frames and follow random tasks
 
 //Cast anything in queue
+{@num(4)} >>
+Haste
 Postmaster's Reflection
 Augur's Purification //is the queue anything other than 0?
 {
@@ -43,8 +45,13 @@ Augur's Purification //is the queue anything other than 0?
         Charon's Gambit
     }
     {
+        Mind's Reflection
+        Compass' Purification
+        Mind's Reflection
+        Alidade's Purification
+        Subtractive Distillation
+        Pathfinder's Gambit
         Charon's Gambit
-        {@num(20)} >>
     }
     Augur's Exaltation
     Hermes' Gambit
