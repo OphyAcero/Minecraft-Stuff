@@ -1,0 +1,45 @@
+Mind's Reflection
+Compass' Purification II
+{@num(100)} >>
+{@num(1)} >>
+{
+    {
+        {@vector(0,0,1)} >>
+        Mind's Reflection
+        Alidade's Purification
+        {@pattern(WEST,qaqww)} >>
+        Hermes' Gambit
+    }
+    {
+        {
+            @vector(1,0,0)
+            @vector(1,0,1)
+            @vector(1,0,-1)
+            @vector(0,0,1)
+            @vector(0,0,-1)
+            @vector(-1,0,0)
+            @vector(-1,0,1)
+            @vector(-1,0,-1)
+        }
+        {
+            Mind's Reflection
+            Compass' Purification
+            Mind's Reflection
+            Alidade's Purification
+            Archer's Distillation
+            Additive Distillation
+        }
+        Jester's Gambit
+        Thoth's Gambit
+        {
+            Vector Reflection +Y
+            Numerical Reflection: 0
+            @pattern(NORTH_EAST,qdqdqdqww)
+            Hermes' Gambit
+        }
+        Jester's Gambit
+        Thoth's Gambit
+    }
+    Augur's Exaltation
+}
+{@pattern(NORTH_EAST,wwwwwaqqqqqeaqeaeaeaeaeq)} >>
