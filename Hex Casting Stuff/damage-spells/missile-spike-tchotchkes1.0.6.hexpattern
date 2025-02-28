@@ -30,10 +30,9 @@ Compass' Purification II
             Archer's Distillation
             Additive Distillation
         }
-        Jester's Gambit
         Thoth's Gambit
         {
-            {@pattern(NORTH_WEST,qqqqqew)}>>
+            {@pattern(NORTH_WEST,qqqqqew)} >>
             Hermes' Gambit
             Numerical Reflection(0)
             {@pattern(NORTH_EAST,qdqdqdqww)} >>
