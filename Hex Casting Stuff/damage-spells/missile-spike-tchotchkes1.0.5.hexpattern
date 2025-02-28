@@ -33,7 +33,8 @@ Compass' Purification II
         Jester's Gambit
         Thoth's Gambit
         {
-            Vector Reflection +Y
+            {@pattern(NORTH_WEST,qqqqqew)}>>
+            Hermes' Gambit
             Numerical Reflection(0)
             {@pattern(NORTH_EAST,qdqdqdqww)} >>
             Hermes' Gambit
