@@ -3,6 +3,7 @@ Compass' Purification II
 {@num(100)} >>
 {@num(1)} >>
 {
+    >>
     {
         {@vector(0,0,1)} >>
         Mind's Reflection
@@ -43,3 +44,4 @@ Compass' Purification II
     Augur's Exaltation
 }
 {@pattern(NORTH_EAST,wwwwwaqqqqqeaqeaeaeaeaeq)} >>
+Hermes' Gambit
