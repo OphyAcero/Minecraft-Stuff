@@ -1,6 +1,6 @@
 Mind's Reflection
 Compass' Purification II
-{@num(100)} >>
+{@num(9)} >>
 {@num(1)} >>
 {
     >>
@@ -30,11 +30,13 @@ Compass' Purification II
             Archer's Distillation
             Additive Distillation
         }
+        Jester's Gambit
         Thoth's Gambit
         {
             {@pattern(NORTH_WEST,qqqqqew)} >>
             Hermes' Gambit
-            Numerical Reflection(0)
+            {@pattern(SOUTH_EAST,aqaa)} >>
+            Hermes' Gambit
             {@pattern(NORTH_EAST,qdqdqdqww)} >>
             Hermes' Gambit
         }
