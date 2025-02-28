@@ -35,7 +35,7 @@ Compass' Purification II
         {
             Vector Reflection +Y
             Numerical Reflection(0)
-            @pattern(NORTH_EAST,qdqdqdqww)
+            {@pattern(NORTH_EAST,qdqdqdqww)} >>
             Hermes' Gambit
         }
         Jester's Gambit
