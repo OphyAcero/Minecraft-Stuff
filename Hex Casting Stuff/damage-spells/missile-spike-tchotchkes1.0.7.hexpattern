@@ -35,9 +35,8 @@ Compass' Purification II
         {
             {@pattern(NORTH_WEST,qqqqqew)} >>
             Hermes' Gambit
-            {@pattern(SOUTH_EAST,aqaa)} >>
-            Hermes' Gambit
-            {@pattern(NORTH_EAST,qdqdqdqww)} >>
+            Numerical Reflection(0)
+            {@pattern(NORTH_EAST,qdqdqdww)} >>
             Hermes' Gambit
         }
         Jester's Gambit
